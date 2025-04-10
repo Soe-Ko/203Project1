@@ -1,5 +1,18 @@
-public class Project1 {
+public class BigNumArithmetic {
+
+    /**
+     * The entry point of the program.
+     * @param args Command line arguments. Should have exactly one argument: a file name.
+     */
+
     public static void main(String[] args) {
+//        if (args.length != 1) {
+//            throw new IllegalArgumentException(
+//                    "Expected exactly 1 argument: a file name.");
+//        }
+//        String filePath = args[0];
+//        FileProcessor.processFile(filePath);
+
         // assuming the Linked List class..
             // 1. takes a String of numbers as an argument
             // 2. converts the String to a Linked List of nodes
